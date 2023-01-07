@@ -1,5 +1,5 @@
-# webdevelopmentproject
-A web development project based on Online web presenter.
+# webprogramming project
+A web programming project based on Online web presenter.
  
  This project aims to develop a web-based presenter that can be edited. The user can create
 presentation slides. The project is developed using PHP, JavaScript, HTML and CSS. The data is
